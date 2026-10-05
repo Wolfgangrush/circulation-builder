@@ -1,0 +1,2836 @@
+{
+  "sourceUrl": "https://bombayhighcourt.gov.in/bhc/get-case-types-new",
+  "checkedOn": "2026-10-05",
+  "sourceDigest": "161e792e0c6d3d95c992e8a85f48b562781b88e174deacaa971580ab37ef1a64",
+  "notes": "Reviewed local snapshot of the Bombay High Court case-status type selector. AS and OS are selector sides; this data is not a live court query.",
+  "types": [
+    {
+      "id": "aba--cr-anticipatory-bail-appln",
+      "code": "ABA",
+      "label": "Cr. Anticipatory Bail Appln.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "adms--admiralty-suits",
+      "code": "ADMS",
+      "label": "ADMIRALTY SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "aep--appln-in-election-petition",
+      "code": "AEP",
+      "label": "APPLN. IN ELECTION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "aitr--agricultural-income-tax-reference",
+      "code": "AITR",
+      "label": "AGRICULTURAL INCOME TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "alp--appln-for-leave-to-appeal-pvt",
+      "code": "ALP",
+      "label": "Appln for Leave to Appeal(PVT.)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "als--appln-for-leave-to-appeal-state",
+      "code": "ALS",
+      "label": "Appln For Leave to Appeal(STATE)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ao--appeal-from-order",
+      "code": "AO",
+      "label": "Appeal from Order",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "apeal--cr-appeal",
+      "code": "APEAL",
+      "label": "Cr. Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "apl--criminal-appln-u-s-482",
+      "code": "APL",
+      "label": "Criminal Appln. U/s 482",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "app--appeals",
+      "code": "APP",
+      "label": "APPEALS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "appa--cr-application-in-appeal",
+      "code": "APPA",
+      "label": "Cr. Application in Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appco--application-in-cr-conf",
+      "code": "APPCO",
+      "label": "Application in Cr. Conf.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appcp--application-in-cr-cont-petn",
+      "code": "APPCP",
+      "label": "Application in Cr. Cont. Petn.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appcr--application-in-cr-reference",
+      "code": "APPCR",
+      "label": "Application In Cr. Reference",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appi--application-in-cr-pil",
+      "code": "APPI",
+      "label": "Application in Cr. PIL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appln--cr-application",
+      "code": "APPLN",
+      "label": "Cr. Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appp--cr-application-in-application",
+      "code": "APPP",
+      "label": "Cr. Application in Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appr--cr-application-in-revision",
+      "code": "APPR",
+      "label": "Cr. Application in Revision",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appsc--application-in-cr-suo-moto-conp",
+      "code": "APPSC",
+      "label": "Application In Cr. SUO-MOTO CONP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "appw--cr-application-in-writ-petition",
+      "code": "APPW",
+      "label": "Cr. Application in Writ Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ara--arb-apeal-u-s-37-of-arb-conc-96",
+      "code": "ARA",
+      "label": "Arb. Apeal  u/s 37 of  Arb.  Conc. 96",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "arapp--arbitration-appeal",
+      "code": "ARAPP",
+      "label": "ARBITRATION APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "arbap--arbitration-application",
+      "code": "ARBAP",
+      "label": "ARBITRATION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "arbp--arbitration-petition",
+      "code": "ARBP",
+      "label": "ARBITRATION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "arbs--arbitration-suits",
+      "code": "ARBS",
+      "label": "ARBITRATION SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "arp--arbitration-petition",
+      "code": "ARP",
+      "label": "Arbitration Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "aswp--appellate-side-writ-petition",
+      "code": "ASWP",
+      "label": "APPELLATE SIDE WRIT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "aulpa--lpa-aurangabad",
+      "code": "AULPA",
+      "label": "LPA(AURANGABAD)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "aurwp--writ-petition-aurangabad",
+      "code": "AURWP",
+      "label": "WRIT PETITION (AURANGABAD)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "aw--awards",
+      "code": "AW",
+      "label": "AWARDS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ba--criminal-bail-appln",
+      "code": "BA",
+      "label": "Criminal Bail Appln.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "bifr--bifr",
+      "code": "BIFR",
+      "label": "BIFR",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "c.ref--civil-references",
+      "code": "C.REF",
+      "label": "Civil References",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ca--company-application",
+      "code": "CA",
+      "label": "COMPANY APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ca--civil-application",
+      "code": "CA",
+      "label": "Civil Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "caa--company-application-in-apeal",
+      "code": "CAA",
+      "label": "COMPANY APPLICATION IN APEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "caa--civil-application-in-ao",
+      "code": "CAA",
+      "label": "Civil Application in AO",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cac--civil-application-in-cra",
+      "code": "CAC",
+      "label": "Civil Application in CRA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cae--civil-application-in-c-ref",
+      "code": "CAE",
+      "label": "Civil Application in C.REF",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "caf--civil-application-in-fa",
+      "code": "CAF",
+      "label": "Civil Application in FA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cafm--civil-application-in-fema",
+      "code": "CAFM",
+      "label": "Civil Application In FEMA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cai--civil-application-in-pil",
+      "code": "CAI",
+      "label": "Civil Application in PIL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cal--civil-application-in-lpa",
+      "code": "CAL",
+      "label": "Civil Application in LPA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cam--civil-application-in-fca",
+      "code": "CAM",
+      "label": "Civil Application in FCA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "can--civil-application-in-cp",
+      "code": "CAN",
+      "label": "Civil Application in CP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cao--ca-in-oth-mca-txa-ca-fera",
+      "code": "CAO",
+      "label": "CA in Oth.(MCA/TXA/CA/FERA)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cap--civil-appl-in-arp",
+      "code": "CAP",
+      "label": "Civil Appl. in ARP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "capl--contempt-appeal",
+      "code": "CAPL",
+      "label": "Contempt Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "capp--chartered-accountant-appeal",
+      "code": "CAPP",
+      "label": "CHARTERED ACCOUNTANT APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "car--chartered-a-c-reference",
+      "code": "CAR",
+      "label": "CHARTERED A/C REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "car--civil-appln-in-ara",
+      "code": "CAR",
+      "label": "Civil Appln. in ARA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "carap--commercial-arbitration-application",
+      "code": "CARAP",
+      "label": "Commercial Arbitration Application",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "carba--commercial-arbitration-appeal",
+      "code": "CARBA",
+      "label": "Commercial Arbitration Appeal",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "carbp--commercial-arbitration-petition",
+      "code": "CARBP",
+      "label": "Commercial Arbitration Petition",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cas--civil-application-in-sa",
+      "code": "CAS",
+      "label": "Civil Application in SA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "case--case",
+      "code": "CASE",
+      "label": "CASE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cat--civil-application-in-capl",
+      "code": "CAT",
+      "label": "Civil Application in CAPL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "caw--civil-application-in-wp",
+      "code": "CAW",
+      "label": "Civil Application in WP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cay--civil-application-in-fera",
+      "code": "CAY",
+      "label": "Civil Application in FERA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cc--counter-claim",
+      "code": "CC",
+      "label": "COUNTER CLAIM",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ccapl--commercial-contempt-appeal",
+      "code": "CCAPL",
+      "label": "COMMERCIAL CONTEMPT APPEAL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ccno--supreme-ct-c-c-no",
+      "code": "CCNO",
+      "label": "Supreme Ct. C. C. NO.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ccno--supreme-ct-cr-c-c-no",
+      "code": "CCNO",
+      "label": "Supreme Ct. Cr. C. C. NO.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ccp--counter-claim-parsi",
+      "code": "CCP",
+      "label": "COUNTER CLAIM(PARSI)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ccpc--criminal-cont-petn-company",
+      "code": "CCPC",
+      "label": "Criminal Cont. Petn.(Company)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ccpdj--civil-contempt-petition-by-district-judiciary",
+      "code": "CCPDJ",
+      "label": "CIVIL CONTEMPT PETITION BY DISTRICT JUDICIARY",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cea--central-excise-application",
+      "code": "CEA",
+      "label": "CENTRAL EXCISE APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cer--central-excise-reference",
+      "code": "CER",
+      "label": "CENTRAL EXCISE REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cexa--central-excise-appeal",
+      "code": "CEXA",
+      "label": "CENTRAL EXCISE APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chocl--chamber-order-lodg-cond-of-delay",
+      "code": "CHOCL",
+      "label": "CHAMBER ORDER LODG.(COND.OF DELAY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "choin--chamber-order-in-insolvecy",
+      "code": "CHOIN",
+      "label": "CHAMBER ORDER IN INSOLVECY",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chol--chamber-order",
+      "code": "CHOL",
+      "label": "CHAMBER ORDER",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chs--chamber-summons",
+      "code": "CHS",
+      "label": "CHAMBER SUMMONS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chsca--chamber-summons-in-commercial-appellate-division-matters",
+      "code": "CHSCA",
+      "label": "Chamber Summons in Commercial Appellate Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chscd--chamber-summons-in-commercial-division-matters",
+      "code": "CHSCD",
+      "label": "Chamber Summons in Commercial Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chsp--chamber-summons-prothonotary",
+      "code": "CHSP",
+      "label": "CHAMBER SUMMONS (PROTHONOTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chspm--chamber-summons-parsi-suits",
+      "code": "CHSPM",
+      "label": "CHAMBER SUMMONS(PARSI SUITS)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "chsw--chamber-summons-in-writ-petition",
+      "code": "CHSW",
+      "label": "CHAMBER SUMMONS IN WRIT PETITION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cn--contempt-notice",
+      "code": "CN",
+      "label": "CONTEMPT NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cnpcp--contempt-petition-company-petn",
+      "code": "CNPCP",
+      "label": "CONTEMPT PETITION(COMPANY PETN.)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cnw--contempt-notice-writ-petition",
+      "code": "CNW",
+      "label": "CONTEMPT NOTICE(WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "coapp--company-appeal",
+      "code": "COAPP",
+      "label": "COMPANY APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "coara--commercial-arbitration-appeal",
+      "code": "COARA",
+      "label": "COMMERCIAL ARBITRATION APPEAL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "coarp--commercial-arbitration-petition",
+      "code": "COARP",
+      "label": "COMMERCIAL ARBITRATION PETITION",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "coex--contempt-petition-in-execution",
+      "code": "COEX",
+      "label": "CONTEMPT PETITION IN EXECUTION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "coi--chamber-order-insolvency",
+      "code": "COI",
+      "label": "Chamber Order(Insolvency)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comao--commerical-ao",
+      "code": "COMAO",
+      "label": "COMMERICAL AO",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "comap--commercial-appeal",
+      "code": "COMAP",
+      "label": "Commercial Appeal",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comas--commercial-admiralty-suits",
+      "code": "COMAS",
+      "label": "COMMERCIAL ADMIRALTY SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comcp--commercial-contempt-petition",
+      "code": "COMCP",
+      "label": "COMMERCIAL CONTEMPT PETITION",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "comex--commercial-execution-application",
+      "code": "COMEX",
+      "label": "COMMERCIAL EXECUTION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comfa--commercial-fa",
+      "code": "COMFA",
+      "label": "COMMERCIAL FA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "comip--commercial-intellectual-property-rights-suits",
+      "code": "COMIP",
+      "label": "COMMERCIAL INTELLECTUAL PROPERTY RIGHTS SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "commp--commercial-miscellaneous-petition",
+      "code": "COMMP",
+      "label": "COMMERCIAL MISCELLANEOUS PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comp--complaints-in-company-petition",
+      "code": "COMP",
+      "label": "COMPLAINTS (IN COMPANY PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comrp--review-petition-in-commercial-fa-ara-ao-arp-cp-ca",
+      "code": "COMRP",
+      "label": "REVIEW PETITION IN COMMERCIAL FA/ARA/AO/ARP/CP/CA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "coms--commercial-suit",
+      "code": "COMS",
+      "label": "Commercial Suit",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "comss--commercial-summary-suits",
+      "code": "COMSS",
+      "label": "COMMERCIAL SUMMARY SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "conf--cr-confirmation-case",
+      "code": "CONF",
+      "label": "Cr. Confirmation Case",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "conp--contempt-petition",
+      "code": "CONP",
+      "label": "CONTEMPT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "conp--cr-contempt-petition",
+      "code": "CONP",
+      "label": "Cr. Contempt Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "conpp--contempt-petition-in-pil",
+      "code": "CONPP",
+      "label": "CONTEMPT PETITION IN PIL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "conpw--contempt-petition-in-writ-petition",
+      "code": "CONPW",
+      "label": "CONTEMPT PETITION IN WRIT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "contp--contempt-petition-tp",
+      "code": "CONTP",
+      "label": "CONTEMPT PETITION (TP)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "copp--contempet-petition-in-parsi",
+      "code": "COPP",
+      "label": "CONTEMPET PETITION IN PARSI",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "coxob--cross-objection-in-commercial-fa-ara-ao-arp-cp-ca",
+      "code": "COXOB",
+      "label": "CROSS OBJECTION IN COMMERCIAL FA/ARA/AO/ARP/CP/CA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cp--company-petition",
+      "code": "CP",
+      "label": "COMPANY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cp--cont-petition",
+      "code": "CP",
+      "label": "Cont. Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "cpcad--contempt-petition-in-commercial-appellate-division-matters",
+      "code": "CPCAD",
+      "label": "Contempt Petition in Commercial Appellate Division Matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cpcad--contempt-petition-in-commercial-appellate-division-matters",
+      "code": "CPCAD",
+      "label": "Contempt Petition in Commercial Appellate Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cpcd--contempt-petition-in-commercial-division-matters",
+      "code": "CPCD",
+      "label": "Contempt Petition in Commercial Division Matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cpcd--contempt-petition-in-commercial-division-matters",
+      "code": "CPCD",
+      "label": "Contempt Petition in Commercial Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cpin--civil-contempt-petition-inpt",
+      "code": "CPIN",
+      "label": "Civil Contempt Petition(INPT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cpp--company-partnership-petition",
+      "code": "CPP",
+      "label": "Company Partnership Petition",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cptp--criminal-contempt-petition-in-tp",
+      "code": "CPTP",
+      "label": "Criminal Contempt Petition in TP",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cra--civil-revision-application",
+      "code": "CRA",
+      "label": "Civil Revision Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "crcp--criminal-contempt-petition",
+      "code": "CRCP",
+      "label": "CRIMINAL CONTEMPT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cre--court-receiver-execution",
+      "code": "CRE",
+      "label": "Court Receiver Execution",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "crol--cross-objection-lodging",
+      "code": "CROL",
+      "label": "CROSS OBJECTION LODGING",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "crpil--public-interest-litigation",
+      "code": "CRPIL",
+      "label": "Public Interest Litigation",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "crpin--criminal-contempt-petition-inpt",
+      "code": "CRPIN",
+      "label": "Criminal Contempt Petition(INPT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "crr--court-receiver-report",
+      "code": "CRR",
+      "label": "Court Receiver Report",
+      "sides": [
+        "AS",
+        "OS"
+      ]
+    },
+    {
+      "id": "csd--company-summons-for-direction",
+      "code": "CSD",
+      "label": "COMPANY SUMMONS FOR DIRECTION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "csp--company-scheme-petition",
+      "code": "CSP",
+      "label": "COMPANY SCHEME PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "csr--company-secretary-reference",
+      "code": "CSR",
+      "label": "COMPANY SECRETARY REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cst--chamber-summons-testamentary",
+      "code": "CST",
+      "label": "CHAMBER SUMMONS (TESTAMENTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ctda--chartered-accountants-application",
+      "code": "CTDA",
+      "label": "CHARTERED ACCOUNTANTS APPLICATION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cts--caveat-in-testamentry",
+      "code": "CTS",
+      "label": "Caveat In Testamentry",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cuapp--custom-appeal",
+      "code": "CUAPP",
+      "label": "CUSTOM APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cusa--customs-application-lodging",
+      "code": "CUSA",
+      "label": "CUSTOMS APPLICATION LODGING",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cusal--custom-application-lodging",
+      "code": "CUSAL",
+      "label": "CUSTOM APPLICATION LODGING.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "custa--customs-act-application",
+      "code": "CUSTA",
+      "label": "CUSTOMS ACT APPLICATION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "custd--custom-duty-application",
+      "code": "CUSTD",
+      "label": "CUSTOM DUTY APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "custp--custody-petition",
+      "code": "CUSTP",
+      "label": "CUSTODY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "custr--custom-duty-reference",
+      "code": "CUSTR",
+      "label": "CUSTOM DUTY REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "cvt--ceveat",
+      "code": "CVT",
+      "label": "CEVEAT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "dm--disciplinary-matters",
+      "code": "DM",
+      "label": "DISCIPLINARY MATTERS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "dnms--draft-notice-of-motion-suits",
+      "code": "DNMS",
+      "label": "DRAFT NOTICE OF MOTION (SUITS)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "dnmw--draft-notice-of-motion-writ-petition",
+      "code": "DNMW",
+      "label": "DRAFT NOTICE OF MOTION (WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "eda--estate-duty-tax-application",
+      "code": "EDA",
+      "label": "ESTATE DUTY TAX APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "edr--estate-duty-tax-reference",
+      "code": "EDR",
+      "label": "ESTATE DUTY TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ep--election-petition",
+      "code": "EP",
+      "label": "ELECTION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "eptr--excess-profit-tax-refeence",
+      "code": "EPTR",
+      "label": "EXCESS PROFIT TAX REFEENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "etr--expenditure-tax-reference",
+      "code": "ETR",
+      "label": "EXPENDITURE TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "exa--execution-application",
+      "code": "EXA",
+      "label": "EXECUTION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "exda--excise-duty-application",
+      "code": "EXDA",
+      "label": "EXCISE DUTY APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "exdr--excise-duty-reference",
+      "code": "EXDR",
+      "label": "EXCISE DUTY REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "f.no.--f-no",
+      "code": "F.NO.",
+      "label": "F.NO.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "fa--first-appeal",
+      "code": "FA",
+      "label": "First Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "fag--first-appeal-goa",
+      "code": "FAG",
+      "label": "First Appeal (GOA)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "fap--foreign-adoption-petition",
+      "code": "FAP",
+      "label": "FOREIGN ADOPTION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "fca--family-court-appeal",
+      "code": "FCA",
+      "label": "Family Court Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "fema--fema-appeal",
+      "code": "FEMA",
+      "label": "FEMA APPEAL",
+      "sides": [
+        "AS",
+        "OS"
+      ]
+    },
+    {
+      "id": "fera--fera-appeal",
+      "code": "FERA",
+      "label": "FERA Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "gca--gold-control-application",
+      "code": "GCA",
+      "label": "GOLD CONTROL APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "gcr--gold-control-reference",
+      "code": "GCR",
+      "label": "GOLD CONTROL REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "gp--guardianship-petition",
+      "code": "GP",
+      "label": "GUARDIANSHIP PETITION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "grn--guarnishee-notice",
+      "code": "GRN",
+      "label": "GUARNISHEE NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "gta--gift-tax-application",
+      "code": "GTA",
+      "label": "GIFT TAX APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "gtr--gift-tax-reference",
+      "code": "GTR",
+      "label": "GIFT TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "gtxa--gift-tax-appeal",
+      "code": "GTXA",
+      "label": "GIFT TAX APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ia--cri-interim-application",
+      "code": "IA",
+      "label": "CRI-INTERIM APPLICATION",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ia--interim-application",
+      "code": "IA",
+      "label": "INTERIM APPLICATION",
+      "sides": [
+        "AS",
+        "OS"
+      ]
+    },
+    {
+      "id": "ia--supreme-ct-cr-introlocatory-applicaton",
+      "code": "IA",
+      "label": "Supreme Ct. Cr. Introlocatory Applicaton",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "ia--supreme-ct-intolocatory-application",
+      "code": "IA",
+      "label": "Supreme Ct. Intolocatory Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "iaap--interim-arbitration-application",
+      "code": "IAAP",
+      "label": "INTERIM ARBITRATION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "iap--indian-adoption-petition",
+      "code": "IAP",
+      "label": "INDIAN ADOPTION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "iarbp--interim-arbitration-petition",
+      "code": "IARBP",
+      "label": "INTERIM ARBITRATION PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ic--indian-companies",
+      "code": "IC",
+      "label": "Indian Companies",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "iconp--interim-contempt-petition",
+      "code": "ICONP",
+      "label": "INTERIM CONTEMPT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "icp--int-cust-petition",
+      "code": "ICP",
+      "label": "INT.CUST.PETITION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ida--insolvency-discharge-application",
+      "code": "IDA",
+      "label": "INSOLVENCY DISCHARGE APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "igp--indian-guardanship-petition",
+      "code": "IGP",
+      "label": "INDIAN GUARDANSHIP PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ilp--interim-lunancy-petition",
+      "code": "ILP",
+      "label": "INTERIM LUNANCY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "imgp--interim-guardian-petition",
+      "code": "IMGP",
+      "label": "INTERIM GUARDIAN PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "imha--interim-mental-health-act-petition",
+      "code": "IMHA",
+      "label": "INTERIM MENTAL HEALTH ACT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "imp--interim-misc-petition",
+      "code": "IMP",
+      "label": "INTERIM MISC. PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "inap--intervention-application",
+      "code": "INAP",
+      "label": "Intervention Application",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "inot--insolvency-notice",
+      "code": "INOT",
+      "label": "INSOLVENCY NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "inpt--insolvency-petition",
+      "code": "INPT",
+      "label": "INSOLVENCY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "insa--insurance-act",
+      "code": "INSA",
+      "label": "INSURANCE ACT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "insp--insolvency-petition",
+      "code": "INSP",
+      "label": "INSOLVENCY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ip--int-petition",
+      "code": "IP",
+      "label": "INT.PETITION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ipa--in-person-application",
+      "code": "IPA",
+      "label": "In Person Application",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ipmp--interim-parsi-matrimonial-petition",
+      "code": "IPMP",
+      "label": "INTERIM PARSI MATRIMONIAL PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "irn--insolvency-rule-nisi",
+      "code": "IRN",
+      "label": "INSOLVENCY RULE NISI",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "irxa--interest-tax-appeal",
+      "code": "IRXA",
+      "label": "INTEREST TAX APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ita--income-tax-application",
+      "code": "ITA",
+      "label": "INCOME TAX APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "itr--income-tax-reference",
+      "code": "ITR",
+      "label": "INCOME TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "itxa--income-tax-appeal-it",
+      "code": "ITXA",
+      "label": "INCOME TAX APPEAL(IT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "jo--judges-order",
+      "code": "JO",
+      "label": "JUDGES ORDER",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "joi--judges-order-insolvency",
+      "code": "JOI",
+      "label": "Judges Order(Insolvency)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "jot--judges-order-testamentary",
+      "code": "JOT",
+      "label": "JUDGES ORDER (TESTAMENTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "jow--judges-order-writ-petition",
+      "code": "JOW",
+      "label": "JUDGES ORDER (WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "lar--land-acquisition-reference",
+      "code": "LAR",
+      "label": "LAND ACQUISITION REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "lp--lunancy-petition",
+      "code": "LP",
+      "label": "LUNANCY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "lpa--letter-patent-appeal",
+      "code": "LPA",
+      "label": "Letter Patent Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "lpetn--leave-petition",
+      "code": "LPETN",
+      "label": "LEAVE PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "lpw--leave-petition-writ",
+      "code": "LPW",
+      "label": "LEAVE PETITION(WRIT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mapp--misc-application",
+      "code": "MAPP",
+      "label": "MISC.APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mca--misc-com-app",
+      "code": "MCA",
+      "label": "MISC.COM.APP",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mca--misc-civil-application",
+      "code": "MCA",
+      "label": "Misc.Civil Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "merc--maha-electricity-regulatory-comm",
+      "code": "MERC",
+      "label": "MAHA. ELECTRICITY REGULATORY COMM.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mha--mental-health-act-petition",
+      "code": "MHA",
+      "label": "MENTAL HEALTH ACT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mjs--matrimonial-suits",
+      "code": "MJS",
+      "label": "MATRIMONIAL SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mp--misc-petition",
+      "code": "MP",
+      "label": "MISC.PETITION.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mpa--marraige-petition-a",
+      "code": "MPA",
+      "label": "Marraige Petition(A)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "mpin--misc-petition-for-leave",
+      "code": "MPIN",
+      "label": "Misc. Petition for leave",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mpp--misc-parsi-petition",
+      "code": "MPP",
+      "label": "MISC. PARSI PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mpt--misc-petition-in-t-and-i-j",
+      "code": "MPT",
+      "label": "MISC PETITION IN T and I J",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ms--misfeasons-summonses",
+      "code": "MS",
+      "label": "MISFEASONS SUMMONSES",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mta--misc-testamentary-appln",
+      "code": "MTA",
+      "label": "MISC. TESTAMENTARY APPLN.",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "mvxa--mah-value-added-tax-appeal",
+      "code": "MVXA",
+      "label": "Mah. Value Added Tax Appeal",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "n--notice",
+      "code": "N",
+      "label": "NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nagwp--writ-petition-nagpur",
+      "code": "NAGWP",
+      "label": "WRIT PETITION (NAGPUR)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nma--notice-of-motion-appeals",
+      "code": "NMA",
+      "label": "NOTICE OF MOTION (APPEALS)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmc--notice-of-motion-company",
+      "code": "NMC",
+      "label": "NOTICE OF MOTION  (COMPANY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmca--notice-of-motion-in-commercial-appellate-division-matters",
+      "code": "NMCA",
+      "label": "Notice of Motion in Commercial Appellate Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmcd--notice-of-motion-in-commercial-division-matters",
+      "code": "NMCD",
+      "label": "Notice of Motion in Commercial Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmis--notice-of-motion-insolvency",
+      "code": "NMIS",
+      "label": "NOTICE OF MOTION (INSOLVENCY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmisa--nm-for-setting-aside-insol-notice",
+      "code": "NMISA",
+      "label": "NM FOR SETTING ASIDE INSOL.NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nms--notice-of-motion-suits",
+      "code": "NMS",
+      "label": "NOTICE OF MOTION (SUITS)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmsp--notice-of-motion-parsi-suit",
+      "code": "NMSP",
+      "label": "NOTICE OF MOTION (PARSI SUIT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmt--notice-of-motion-testamentary",
+      "code": "NMT",
+      "label": "NOTICE OF MOTION (TESTAMENTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "nmw--notice-of-motion-writ-petition",
+      "code": "NMW",
+      "label": "NOTICE OF MOTION  (WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "oar--official-assignees-report",
+      "code": "OAR",
+      "label": "OFFICIAL ASSIGNEES REPORT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "olr--official-liquidator-report",
+      "code": "OLR",
+      "label": "Official Liquidator Report",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "orgs--orginating-summons",
+      "code": "ORGS",
+      "label": "ORGINATING SUMMONS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ots--obj-to-scheme-company",
+      "code": "OTS",
+      "label": "Obj. to Scheme(Company)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pcn--parsi-contempt-notice-of-motion",
+      "code": "PCN",
+      "label": "PARSI CONTEMPT NOTICE OF MOTION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pexa--parsi-execution-application",
+      "code": "PEXA",
+      "label": "PARSI EXECUTION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pil--public-interest-litigation",
+      "code": "PIL",
+      "label": "PUBLIC INTEREST LITIGATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pil--public-interest-litigation",
+      "code": "PIL",
+      "label": "Public Interest Litigation",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "pma--parsi-misc-application",
+      "code": "PMA",
+      "label": "PARSI MISC. APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pmp--parsi-matrimonial-petition",
+      "code": "PMP",
+      "label": "PARSI MATRIMONIAL PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pmtp--parsi-maintenance-petition",
+      "code": "PMTP",
+      "label": "PARSI  MAINTENANCE  PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pn--perjury-notice",
+      "code": "PN",
+      "label": "PERJURY NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pnw--perjury-notice-writ-petition",
+      "code": "PNW",
+      "label": "PERJURY NOTICE ( WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "pp--pauper-petition",
+      "code": "PP",
+      "label": "PAUPER PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ppa--pauper-petition-appeal",
+      "code": "PPA",
+      "label": "PAUPER PETITION (APPEAL)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ppet--parsi-petition",
+      "code": "PPET",
+      "label": "PARSI PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ppin--protection-petition-inpt",
+      "code": "PPIN",
+      "label": "Protection Petition(INPT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ppt--pauper-petition-testamentary",
+      "code": "PPT",
+      "label": "PAUPER PETITION (TESTAMENTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "prjp--perjury-petition",
+      "code": "PRJP",
+      "label": "PERJURY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ps--parsi-suits",
+      "code": "PS",
+      "label": "PARSI SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "psc--peti-for-leave-to-appeal-to-the-sup-crt",
+      "code": "PSC",
+      "label": "PETI.FOR LEAVE TO APPEAL TO THE SUP.CRT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ra--restoration-application",
+      "code": "RA",
+      "label": "RESTORATION APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ral--reference-application-lodging",
+      "code": "RAL",
+      "label": "REFERENCE APPLICATION LODGING",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rap--review-petition-in-ara",
+      "code": "RAP",
+      "label": "Review Petition in ARA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rc--rejected-case",
+      "code": "RC",
+      "label": "Rejected Case",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rcw--rejected-case-os-wp",
+      "code": "RCW",
+      "label": "Rejected Case(OS-WP)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ref--cr-reference",
+      "code": "REF",
+      "label": "Cr. Reference",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rep--report",
+      "code": "REP",
+      "label": "REPORT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "revn--cr-revision-appln",
+      "code": "REVN",
+      "label": "Cr. Revision Appln.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "revw--criminal-review",
+      "code": "REVW",
+      "label": "Criminal Review",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rp--review-petition",
+      "code": "RP",
+      "label": "REVIEW PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpa--review-petition-appeal",
+      "code": "RPA",
+      "label": "REVIEW PETITION(APPEAL)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpa--review-petn-in-ao",
+      "code": "RPA",
+      "label": "Review Petn. in AO",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpc--review-petition-company",
+      "code": "RPC",
+      "label": "REVIEW PETITION (COMPANY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpc--review-petn-in-cra",
+      "code": "RPC",
+      "label": "Review Petn. in CRA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpca--review-petition-in-commercial-appellate-division-matters",
+      "code": "RPCA",
+      "label": "Review Petition in Commercial Appellate Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpcd--review-petition-in-commercial-division-matters",
+      "code": "RPCD",
+      "label": "Review Petition in Commercial Division matters",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpe--recrimination-petition",
+      "code": "RPE",
+      "label": "Recrimination Petition",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpf--review-pent-in-fa",
+      "code": "RPF",
+      "label": "Review Pent. in FA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpfm--review-petition-in-fema-appeal",
+      "code": "RPFM",
+      "label": "Review Petition In FEMA Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpi--review-petition-in-pil",
+      "code": "RPI",
+      "label": "Review Petition In PIL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpia--review-petition-in-ia",
+      "code": "RPIA",
+      "label": "REVIEW PETITION IN IA",
+      "sides": [
+        "AS",
+        "OS"
+      ]
+    },
+    {
+      "id": "rpin--review-petition-for-leave-inpt",
+      "code": "RPIN",
+      "label": "Review Petition for Leave(INPT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpl--review-petn-in-lpa",
+      "code": "RPL",
+      "label": "Review Petn. in LPA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpm--review-petn-in-fca",
+      "code": "RPM",
+      "label": "Review Petn. in FCA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpn--review-petn-in-cp",
+      "code": "RPN",
+      "label": "Review Petn. in CP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpp--review-petition-pil",
+      "code": "RPP",
+      "label": "REVIEW PETITION(PIL)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpps--review-petition-in-parsi-suit",
+      "code": "RPPS",
+      "label": "Review Petition in Parsi Suit",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpr--review-petn-in-arp",
+      "code": "RPR",
+      "label": "Review Petn. in ARP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rps--review-petn-in-sa",
+      "code": "RPS",
+      "label": "Review Petn. in SA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpt--review-petn-in-capl",
+      "code": "RPT",
+      "label": "Review Petn. in CAPL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpv--review-petition-in-mca",
+      "code": "RPV",
+      "label": "Review Petition in MCA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rpw--review-petition-writ-petition",
+      "code": "RPW",
+      "label": "REVIEW PETITION (WRIT PETITION).",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "rpw--review-petn-in-wp",
+      "code": "RPW",
+      "label": "Review Petn. in WP",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "rtp--review-petition-testamentary",
+      "code": "RTP",
+      "label": "REVIEW PETITION (TESTAMENTARY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "s--suits",
+      "code": "S",
+      "label": "SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "sa--second-appeal",
+      "code": "SA",
+      "label": "Second Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "sapp--sebi-appeal",
+      "code": "SAPP",
+      "label": "SEBI APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scap--supreme-ct-civil-apeal",
+      "code": "SCAP",
+      "label": "Supreme Ct. Civil Apeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "scap--supreme-ct-criminal-apeal",
+      "code": "SCAP",
+      "label": "Supreme Ct. Criminal Apeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "scca--ca-for-leave-to-appeal-to-supreme-court",
+      "code": "SCCA",
+      "label": "CA for Leave to Appeal to Supreme Court",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "sccp--supreme-ct-contempt-petition",
+      "code": "SCCP",
+      "label": "Supreme Ct. Contempt Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "sccp--supreme-ct-cr-contempt-petition",
+      "code": "SCCP",
+      "label": "Supreme Ct. Cr. Contempt Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "scmp--supreme-ct-cr-misc-petition",
+      "code": "SCMP",
+      "label": "Supreme Ct. Cr. Misc. Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "scmp--supreme-ct-misc-petition",
+      "code": "SCMP",
+      "label": "Supreme Ct. Misc. Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "scn--show-cause-notice",
+      "code": "SCN",
+      "label": "SHOW CAUSE NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scncp--show-cause-notice-company",
+      "code": "SCNCP",
+      "label": "SHOW CAUSE NOTICE (COMPANY)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scnin--show-cause-notice-inpt",
+      "code": "SCNIN",
+      "label": "Show Cause Notice(INPT)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scnp--show-cause-notice-in-cptp",
+      "code": "SCNP",
+      "label": "SHOW CAUSE NOTICE IN CPTP",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scntp--show-cause-notice-testa-petn",
+      "code": "SCNTP",
+      "label": "SHOW CAUSE NOTICE (TESTA.PETN.)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "scnw--show-cause-notice-writ-petition",
+      "code": "SCNW",
+      "label": "SHOW CAUSE NOTICE (WRIT PETITION)",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "sctp--supreme-ct-transfer-petition",
+      "code": "SCTP",
+      "label": "Supreme Ct. Transfer Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "sctp--supreme-ct-transfer-petition-cr",
+      "code": "SCTP",
+      "label": "Supreme Ct. Transfer Petition(CR)",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "sj--summonses-for-judgement",
+      "code": "SJ",
+      "label": "SUMMONSES FOR JUDGEMENT",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "slp--supreme-ct-cr-special-leave-petition",
+      "code": "SLP",
+      "label": "Supreme Ct. Cr. Special Leave Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "slp--supreme-ct-special-leave-petition",
+      "code": "SLP",
+      "label": "Supreme Ct. Special Leave Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smap--cr-suo-motu-application",
+      "code": "SMAP",
+      "label": "Cr. Suo-Motu Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smc--suo-moto-contempt-petition",
+      "code": "SMC",
+      "label": "SUO MOTO CONTEMPT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smcn--suo-moto-contempt-notice",
+      "code": "SMCN",
+      "label": "SUO MOTO CONTEMPT NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smcp--cr-suo-motu-contempt-petn",
+      "code": "SMCP",
+      "label": "Cr. Suo-Motu Contempt Petn.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smcp--suo-moto-criminal-contempt-petition",
+      "code": "SMCP",
+      "label": "SUO MOTO CRIMINAL CONTEMPT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smcpc--civil-suo-motu-contempt-petition",
+      "code": "SMCPC",
+      "label": "Civil Suo Motu Contempt Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smcr--suo-moto-civil-contempt-reference",
+      "code": "SMCR",
+      "label": "SUO MOTO CIVIL CONTEMPT REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smn--suo-moto-notice",
+      "code": "SMN",
+      "label": "SUO MOTO NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smp--suo-moto-pil",
+      "code": "SMP",
+      "label": "SUO MOTO PIL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smp--suo-moto-petition",
+      "code": "SMP",
+      "label": "Suo-Moto Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smp--suo-motu-cr-pil",
+      "code": "SMP",
+      "label": "Suo-Motu Cr. PIL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smpil--suo-motuo-pil",
+      "code": "SMPIL",
+      "label": "Suo Motuo PIL",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smrn--cr-suo-motu-revision-appln",
+      "code": "SMRN",
+      "label": "Cr. Suo-Motu Revision Appln.",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smrpw--sou-motu-review-petition-in-writ-petition",
+      "code": "SMRPW",
+      "label": "SOU MOTU REVIEW PETITION IN WRIT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smsn--suo-moto-show-cause-notice",
+      "code": "SMSN",
+      "label": "SUO MOTO SHOW CAUSE NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smwp--cr-suo-motu-writ-petition",
+      "code": "SMWP",
+      "label": "Cr. Suo-Motu Writ Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "smwp--suo-moto-in-writ-petition",
+      "code": "SMWP",
+      "label": "SUO MOTO IN WRIT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "smwp--suo-motu-writ-petition",
+      "code": "SMWP",
+      "label": "Suo Motu Writ Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "somo--cr-suo-motu-petition",
+      "code": "SOMO",
+      "label": "Cr. Suo-Motu Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "spar--special-case-in-arbitration-petn-appl",
+      "code": "SPAR",
+      "label": "SPECIAL CASE IN ARBITRATION PETN/APPL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "splca--special-civil-application",
+      "code": "SPLCA",
+      "label": "Special Civil Application",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "spta--super-profit-tax-applications",
+      "code": "SPTA",
+      "label": "SUPER PROFIT TAX APPLICATIONS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "sptr--super-profit-tax-reference",
+      "code": "SPTR",
+      "label": "SUPER PROFIT TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ss--summary-suits",
+      "code": "SS",
+      "label": "SUMMARY SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "sta--sales-tax-applications",
+      "code": "STA",
+      "label": "SALES TAX APPLICATIONS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "stapp--sur-tax-appeal",
+      "code": "STAPP",
+      "label": "SUR TAX APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "str--sales-tax-reference",
+      "code": "STR",
+      "label": "SALES TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "stxa--sales-tax-appeal",
+      "code": "STXA",
+      "label": "SALES TAX APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "surta--sur-tax-application",
+      "code": "SURTA",
+      "label": "SUR TAX APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "surtr--sur-tax-reference",
+      "code": "SURTR",
+      "label": "SUR TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "tc--complaints-in-testamentary-matters",
+      "code": "TC",
+      "label": "COMPLAINTS IN TESTAMENTARY MATTERS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "td--transfer-decree",
+      "code": "TD",
+      "label": "Transfer Decree",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "tp--testamentary-petition",
+      "code": "TP",
+      "label": "TESTAMENTARY PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "tpac--third-party-applications-for-cc",
+      "code": "TPAC",
+      "label": "Third Party Applications for CC",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "tpn--third-party-notice",
+      "code": "TPN",
+      "label": "THIRD PARTY NOTICE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "trp--trust-petition",
+      "code": "TRP",
+      "label": "TRUST PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "trs--transferred-suit-from-other-courts",
+      "code": "TRS",
+      "label": "TRANSFERRED SUIT FROM OTHER COURTS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "ts--testamentary-suits",
+      "code": "TS",
+      "label": "TESTAMENTARY SUITS",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "txa--tax-appeal",
+      "code": "TXA",
+      "label": "Tax Appeal",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "will--will",
+      "code": "WILL",
+      "label": "Will",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "wp--cr-writ-petition",
+      "code": "WP",
+      "label": "Cr. Writ Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "wp--writ-petition",
+      "code": "WP",
+      "label": "WRIT PETITION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "wp--writ-petition",
+      "code": "WP",
+      "label": "Writ Petition",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "wpa--writ-petition-aurangabad",
+      "code": "WPA",
+      "label": "WRIT PETITION - AURANGABAD",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "wpg--writ-petition-goa",
+      "code": "WPG",
+      "label": "WRIT PETITION - GOA",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "wpn--writ-petition-nagpur",
+      "code": "WPN",
+      "label": "WRIT PETITION - NAGPUR",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "wsccl--written-statment-amp-counter-claim",
+      "code": "WSCCL",
+      "label": "WRITTEN STATMENT amp COUNTER-CLAIM",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "wta--wealth-tax-application",
+      "code": "WTA",
+      "label": "WEALTH TAX APPLICATION",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "wtr--wealth-tax-reference",
+      "code": "WTR",
+      "label": "WEALTH TAX REFERENCE",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "wtxa--wealth-tax-appeal",
+      "code": "WTXA",
+      "label": "WEALTH TAX APPEAL",
+      "sides": [
+        "OS"
+      ]
+    },
+    {
+      "id": "xfer--transfer-matter",
+      "code": "XFER",
+      "label": "TRANSFER MATTER",
+      "sides": [
+        "AS"
+      ]
+    },
+    {
+      "id": "xob--cross-objection-stamp",
+      "code": "XOB",
+      "label": "Cross Objection Stamp",
+      "sides": [
+        "AS"
+      ]
+    }
+  ]
+}
